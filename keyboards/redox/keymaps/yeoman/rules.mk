@@ -1,0 +1,6 @@
+BOOTLOADER      = atmel-dfu
+LTO_ENABLE      = yes
+EXTRAKEY_ENABLE = no
+RGBLIGHT_ENABLE = no
+MOUSEKEY_ENABLE = no
+COMMAND_ENABLE  = yes
